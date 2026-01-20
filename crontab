@@ -1,0 +1,1 @@
+*/30 * * * * /home/romi-devops/check_disk.sh
